@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+p{
+	border: solid 1px;
+}
+#yellow
+{
+	background-color:yellow;
+	border-color:green;
+}
+#red
+{
+	background-color:red;
+	border-color:black;
+}
+#green
+{
+	background-color:green;
+	border-color:yellow;
+}
